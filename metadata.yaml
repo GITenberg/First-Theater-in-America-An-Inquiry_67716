@@ -1,11 +1,16 @@
 _repo: First-Theater-in-America-An-Inquiry_67716
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67716-h/images/cover.jpg
 creator:
   author:
     agent_name: Daly, Charles P.
     gutenberg_agent_id: '54418'
     url: http://www.gutenberg.org/2009/agents/54418
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67716#First-Theater-in-America-An-Inquiry
 gutenberg_issued: '2022-03-26'
 identifiers:
   gutenberg: '67716'
